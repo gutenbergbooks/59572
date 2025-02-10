@@ -1,42 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-
-<!DOCTYPE html
-   PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" >
-
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <title>
-      The Project Gutenberg Works of Walter Richard Cassels
-    </title>
-    <link rel="coverpage" href="images/cover.jpg" />
-    <style type="text/css" xml:space="preserve">
-
-    body { margin:15%; background:#faebd7; text-align:justify}
-    P { text-indent: 1em; margin-top: .25em; margin-bottom: .25em; }
-    H1,H2,H3,H4,H5,H6 { text-align: center; margin-left: 15%; margin-right: 15%; }
-    hr  { width: 50%; text-align: center;}
-    .foot { margin-left: 20%; margin-right: 20%; text-align: justify; text-indent: -3em; font-size: 90%; }
-    blockquote {font-size: 97%; font-style: italic; margin-left: 10%; margin-right: 10%;}
-    .mynote    {background-color: #DDE; color: #000; padding: .5em; margin-left: 10%; margin-right: 10%; font-family: sans-serif; font-size: 95%;}
-    .toc       { margin-left: 10%; margin-bottom: .75em;}
-    .toc2      { margin-left: 20%;}
-    div.fig { display:block; margin:0 auto; text-align:center; }
-    .figleft   {float: left; margin-left: 0%; margin-right: 1%;}
-    .figright  {float: right; margin-right: 0%; margin-left: 1%;}
-    .pagenum   {display:inline; font-size: 70%; font-style:normal;
-               margin: 0; padding: 0; position: absolute; right: 1%;
-               text-align: right;}
-    pre     { font-style: italic; font-size: 90%; margin-left: 10%;}
-
-</style>
-  </head>
-  <body>
-
-
-<pre>
-
-The Project Gutenberg EBook of Index of the Project Gutenberg Works of
+﻿The Project Gutenberg EBook of Index of the Project Gutenberg Works of
 Walter Richard Cassels, by Walter Richard Cassels
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -72,567 +34,127 @@ Produced by David Widger
 
 
 
-</pre>
 
-    <p>
-      <br /> <br />
-    </p>
-    <h1>
-      INDEX OF THE PROJECT GUTENBERG<br /><br /> WORKS OF<br /><br /> WALTER RICHARD
-      <br />CASSELS
-    </h1>
-    <p>
-      <br /> <br />
-    </p>
-    <h3>
-      Compiled by David Widger
-    </h3>
-    <p>
-      <br /> <br />
-    </p>
-    <hr />
-    <p>
-      <br /> <br />
-    </p>
-    <h2>
-      CONTENTS
-    </h2>
-    <h3>
-      Click on the <big><b> ## </b></big> before many of the titles to view a
-      linked<br /> table of contents for that volume.
-    </h3>
-    <h3>
-      Click on the title itself to open the original online file.
-    </h3>
-    <table summary="" style="margin-right: auto; margin-left: auto" cellpadding="4" border="3">
-      <tr>
-        <td>
-          <a name="cassels" id="cassels"></a> <a href="#AU37231"><b><big>##</big></b>&nbsp;</a>
-          <a href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm"> <b>SUPERNATURAL
-          RELIGION, VOL. I.</b></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="#AV37232"><b><big>##</big></b>&nbsp;</a><a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm"> <b>SUPERNATURAL
-          RELIGION, VOL. II.</b></a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="#AW37233"><b><big>##</big></b>&nbsp;</a><a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm"> <b>SUPERNATURAL
-          RELIGION, VOL. III.</b></a>
-        </td>
-      </tr>
-    </table>
-    <p>
-      <br /> <br />
-    </p>
-    <p>
-      <br /> <br />
-    </p>
-    <hr />
-    <p>
-      <br /> <br />
-    </p>
-    <h1>
-      TABLES OF CONTENTS OF VOLUMES
-    </h1>
-    <p>
-      <br /> <br />
-    </p>
-    <hr />
-    <p>
-      <br /> <br />
-    </p>
-    <p>
-      <a name="AU37231" id="AU37231"></a>
-    </p>
-    <h1>
-      SUPERNATURAL RELIGION:
-    </h1>
-    <h3>
-      AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
-    </h3>
-    <h2>
-      By Walter Richard Cassels
-    </h2>
-    <p>
-      <br /><br />
-    </p>
-    <h3>
-      CONTENTS
-    </h3>
-    <table summary="" style="margin-right: auto; margin-left: auto" cellpadding="4" border="3">
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_PREF1">
-          PREFACE TO THE COMPLETE EDITION </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_PREF2">
-          PREFACE TO THE SIXTH EDITION. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_PREF3">
-          PREFACE TO THE FIRST EDITION. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_PREF4">
-          PREFACE TO THE SECOND EDITION. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_INTR">
-          INTRODUCTION. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_4_0006">
-          AN INQUIRY INTO THE REALITY OF DIVINE REVELATION. </a>
-        </td>
-      </tr>
-    </table>
-    <p>
-    </p>
-    <table summary="" style="margin-right: auto; margin-left: auto" cellpadding="4" border="3">
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_PART">
-          PART I. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0001">
-          CHAPTER I</a>
-        </td>
-        <td>
-          MIRACLES IN RELATION TO CHRISTIANITY
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0002">
-          CHAPTER II</a>
-        </td>
-        <td>
-          MIRACLES IN RELATION TO THE ORDER OF NATURE
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0003">
-          CHAPTER III</a>
-        </td>
-        <td>
-          REASON IN RELATION TO THE ORDER OF NATURE
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0004">
-          CHAPTER IV</a>
-        </td>
-        <td>
-          THE AGE OF MIRACLES
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0005">
-          CHAPTER V</a>
-        </td>
-        <td>
-          THE PERMANENT STREAM OF MIRACULOUS PRETENSION
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0006">
-          CHAPTER VI</a>
-        </td>
-        <td>
-          MIRACLES IN RELATION TO IGNORANCE AND SUPERSTITION
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_PART2">
-          PART II</a>
-        </td>
-        <td>
-          THE SYNOPTIC GOSPELS
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2H_INTR2">
-          INTRODUCTION</a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0007">
-          CHAPTER I</a>
-        </td>
-        <td>
-          CLEMENT OF ROME&mdash;THE EPISTLE OF BARNABAS&mdash;THE PASTOR OF
-          HERMAS
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0008">
-          CHAPTER II</a>
-        </td>
-        <td>
-          THE EPISTLES OF IGNATIUS&mdash;THE EPISTLE OF POLYCARP
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0009">
-          CHAPTER III</a>
-        </td>
-        <td>
-          JUSTIN MARTYR
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37231/37231-h/37231-h.htm#link2HCH0010">
-          CHAPTER IV</a>
-        </td>
-        <td>
-          HEGESIPPUS&mdash;PAPIAS OF HIERAPOLIS
-        </td>
-        <td>
-        </td>
-      </tr>
-    </table>
-    <p>
-      <br /> <br />
-    </p>
-    <hr />
-    <p>
-      <br /> <br />
-    </p>
-    <p>
-      <a name="AV37232" id="AV37232"></a>
-    </p>
-    <h1>
-      SUPERNATURAL RELIGION:
-    </h1>
-    <h3>
-      AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
-    </h3>
-    <h2>
-      By Walter Richard Cassels
-    </h2>
-    <h3>
-      In Three Volumes: Vol. II.
-    </h3>
-    <h3>
-      CONTENTS
-    </h3>
-    <table summary="" style="margin-right: auto; margin-left: auto" cellpadding="4" border="3">
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2H_4_0001">
-          AN INQUIRY INTO THE REALITY OF DIVINE REVELATION </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2H_PART2">
-          PART II. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0001">
-          CHAPTER V. THE CLEMENTINES&mdash;THE EPISTLE TO DIOGNETUS </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0002">
-          CHAPTER VI. BASILIDES&mdash;VALENTINUS. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0003">
-          CHAPTER VII. MARCION </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0004">
-          CHAPTER VIII. TATIAN&mdash;DIONYSIUS OF CORINTH </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0005">
-          CHAPTER IX. MELITO OF SARDIS&mdash;CLAUDIUS APOLLINARIS&mdash;ATHENAGORAS&mdash;THE
-          EPISTLE OF VIENNE AND LYONS. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0006">
-          CHAPTER X. PTOLEMÆUS AND HERACLEON&mdash;CELSUS&mdash;THE CANON OF
-          MURATORI&mdash;RESULTS. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2H_PART3">
-          PART III. THE FOURTH GOSPEL </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0007">
-          CHAPTER I. THE EXTERNAL EVIDENCE </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37232/37232-h/37232-h.htm#link2HCH0008">
-          CHAPTER II. AUTHORSHIP AND CHARACTER OF THE FOURTH GOSPEL </a>
-        </td>
-      </tr>
-    </table>
-    <p>
-      <br /> <br />
-    </p>
-    <hr />
-    <p>
-      <br /> <br />
-    </p>
-    <p>
-      <a name="AW37233" id="AW37233"></a>
-    </p>
-    <h1>
-      SUPERNATURAL RELIGION:
-    </h1>
-    <h3>
-      AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
-    </h3>
-    <h2>
-      By Walter Richard Cassels
-    </h2>
-    <h3>
-      In Three Volumes: Vol. III.
-    </h3>
-    <blockquote>
-      <p>
-        <b>"Credulity is as real, if not so great, a sin as unbelief."</b>
-      </p>
-      <p>
-        Archbishop Trench.
-      </p>
-      <p>
-        <br />
-      </p>
-      <p>
-        <b>"The abnegation of reason is not the evidence of faith, but the
-        confession of despair."</b>
-      </p>
-      <p>
-        Canon Lightfoot.
-      </p>
-    </blockquote>
-    <p>
-      <br /> <br />
-    </p>
-    <h3>
-      CONTENTS
-    </h3>
-    <table summary="" style="margin-right: auto; margin-left: auto" cellpadding="4" border="3">
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2H_4_0001">
-          <b>SUPERNATURAL RELIGION: AN INQUIRY INTO THE REALITY OF DIVINE
-          REVELATION</b> </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2H_PART4">
-          <b>PART IV. THE ACTS OF THE APOSTLES</b> </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0001">
-          CHAPTER I. THE EXTERNAL EVIDENCE </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0002">
-          CHAPTER II. EVIDENCE REGARDING THE AUTHORSHIP </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0003">
-          CHAPTER III. DESIGN AND COMPOSITION </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0004">
-          CHAPTER IV. PRIMITIVE CHRISTIANITY. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0005">
-          CHAPTER V. STEPHEN THE MARTYR </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0006">
-          CHAPTER VI. PHILIP AND THE EUNUCH. PETER AND CORNELIUS. </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0007">
-          CHAPTER VII. PAUL THE APOSTLE OF THE GENTILES </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2H_PART5">
-          <b>PART V. THE DIRECT EVIDENCE FOR MIRACLES</b> </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0008">
-          CHAPTER I. THE EPISTLES AND THE APOCALYPSE </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0009">
-          CHAPTER II. THE EVIDENCE OF PAUL </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2H_PART6">
-          <b>PART VI. THE RESURRECTION AND ASCENSION</b> </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0010">
-          CHAPTER I. THE RELATION OF EVIDENCE TO SUBJECT </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0011">
-          CHAPTER II. THE EVIDENCE OF THE GOSPELS </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2HCH0012">
-          CHAPTER III. THE EVIDENCE OF PAUL </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a
-          href="http://www.gutenberg.org/files/37233/37233-h/37233-h.htm#link2H_CONC">
-          <b>CONCLUSIONS.</b> </a>
-        </td>
-      </tr>
-    </table>
-    <p>
-      <br /> <br />
-    </p>
-    <hr />
-    <p>
-      <br /> <br />
-    </p>
-    <p>
-      <br /><br />
-    </p>
-    <hr />
+INDEX OF THE PROJECT GUTENBERG
+
+WORKS OF
+
+WALTER RICHARD
+CASSELS
+
+
+Compiled by David Widger
+
+
+
+
+CONTENTS
+
+##  SUPERNATURAL RELIGION, VOL. I.
+##  SUPERNATURAL RELIGION, VOL. II.
+##  SUPERNATURAL RELIGION, VOL. III.
 
 
 
 
 
 
+TABLES OF CONTENTS OF VOLUMES
 
-<pre>
+
+
+
+
+SUPERNATURAL RELIGION:
+AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
+By Walter Richard Cassels
+
+
+CONTENTS
+PREFACE TO THE COMPLETE EDITION
+PREFACE TO THE SIXTH EDITION.
+PREFACE TO THE FIRST EDITION.
+PREFACE TO THE SECOND EDITION.
+INTRODUCTION.
+AN INQUIRY INTO THE REALITY OF DIVINE REVELATION.
+PART I.
+CHAPTER I	MIRACLES IN RELATION TO CHRISTIANITY
+CHAPTER II	MIRACLES IN RELATION TO THE ORDER OF NATURE
+CHAPTER III	REASON IN RELATION TO THE ORDER OF NATURE
+CHAPTER IV	THE AGE OF MIRACLES
+CHAPTER V	THE PERMANENT STREAM OF MIRACULOUS PRETENSION
+CHAPTER VI	MIRACLES IN RELATION TO IGNORANCE AND SUPERSTITION
+PART II	THE SYNOPTIC GOSPELS
+INTRODUCTION
+CHAPTER I	CLEMENT OF ROME—THE EPISTLE OF BARNABAS—THE PASTOR OF HERMAS
+CHAPTER II	THE EPISTLES OF IGNATIUS—THE EPISTLE OF POLYCARP
+CHAPTER III	JUSTIN MARTYR
+CHAPTER IV	HEGESIPPUS—PAPIAS OF HIERAPOLIS
+
+
+
+
+
+SUPERNATURAL RELIGION:
+AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
+By Walter Richard Cassels
+In Three Volumes: Vol. II.
+CONTENTS
+AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
+PART II.
+CHAPTER V. THE CLEMENTINES—THE EPISTLE TO DIOGNETUS
+CHAPTER VI. BASILIDES—VALENTINUS.
+CHAPTER VII. MARCION
+CHAPTER VIII. TATIAN—DIONYSIUS OF CORINTH
+CHAPTER IX. MELITO OF SARDIS—CLAUDIUS APOLLINARIS—ATHENAGORAS—THE EPISTLE OF VIENNE AND LYONS.
+CHAPTER X. PTOLEMÆUS AND HERACLEON—CELSUS—THE CANON OF MURATORI—RESULTS.
+PART III. THE FOURTH GOSPEL
+CHAPTER I. THE EXTERNAL EVIDENCE
+CHAPTER II. AUTHORSHIP AND CHARACTER OF THE FOURTH GOSPEL
+
+
+
+
+
+SUPERNATURAL RELIGION:
+AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
+By Walter Richard Cassels
+In Three Volumes: Vol. III.
+"Credulity is as real, if not so great, a sin as unbelief."
+
+Archbishop Trench.
+
+
+"The abnegation of reason is not the evidence of faith, but the confession of despair."
+
+Canon Lightfoot.
+
+
+
+CONTENTS
+SUPERNATURAL RELIGION: AN INQUIRY INTO THE REALITY OF DIVINE REVELATION
+PART IV. THE ACTS OF THE APOSTLES
+CHAPTER I. THE EXTERNAL EVIDENCE
+CHAPTER II. EVIDENCE REGARDING THE AUTHORSHIP
+CHAPTER III. DESIGN AND COMPOSITION
+CHAPTER IV. PRIMITIVE CHRISTIANITY.
+CHAPTER V. STEPHEN THE MARTYR
+CHAPTER VI. PHILIP AND THE EUNUCH. PETER AND CORNELIUS.
+CHAPTER VII. PAUL THE APOSTLE OF THE GENTILES
+PART V. THE DIRECT EVIDENCE FOR MIRACLES
+CHAPTER I. THE EPISTLES AND THE APOCALYPSE
+CHAPTER II. THE EVIDENCE OF PAUL
+PART VI. THE RESURRECTION AND ASCENSION
+CHAPTER I. THE RELATION OF EVIDENCE TO SUBJECT
+CHAPTER II. THE EVIDENCE OF THE GOSPELS
+CHAPTER III. THE EVIDENCE OF PAUL
+CONCLUSIONS.
+
+
+
+
+
+
 
 
 
@@ -643,7 +165,7 @@ of Walter Richard Cassels, by Walter Richard Cassels
 
 *** END OF THIS PROJECT GUTENBERG EBOOK INDEX OF THE PG WORKS OF CASSELS ***
 
-***** This file should be named 59572-h.htm or 59572-h.zip *****
+***** This file should be named 59572-0.txt or 59572-0.zip *****
 This and all associated files of various formats will be found in:
         http://www.gutenberg.org/5/9/5/7/59572/
 
@@ -999,9 +521,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
 
-
-
-</pre>
-
-  </body>
-</html>
